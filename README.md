@@ -1,5 +1,5 @@
 # README : Présentation des scripts R-Markdown des analyses statistiques
-Ce dossier contient l'ensemble des analyses statistiques réalisées dans le cadre de mon mémoire, durant mon stage de fin d'études, sur l'évaluation de méthodes de lutte novatrices contre Myzus persicae, en vergers de pêchers.
+Ce dossier contient l'ensemble des analyses statistiques réalisées dans le cadre de mon mémoire, sur l'évaluation de méthodes de lutte novatrices contre Myzus persicae, en vergers de pêchers.
 Cinq scripts R sont présents, pour les cinq analyses statistiques différentes :
 
 1. L'analyse du suivi du retour à fleurs
